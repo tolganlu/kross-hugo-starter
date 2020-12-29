@@ -3,6 +3,7 @@ title: Aksiyon Virüsü ile Nasıl Baş Edilir?
 date: 2019-05-12T12:14:34.000+06:00
 image: "/images/83926330_4076397989053132_6217434832813686784_o.jpg"
 description: 2021'de daha üretken bir yıl dileğiyle
+draft: true
 
 ---
 2020 yılının son günlerini yaşadığımız bugünlerde bu yazıyı yazmak istememdeki en büyük motivasyon, dönüp baktığımda 2020 yılının bende apayrı bir anlamının olması ve ileride bu yazıyı okumanın bana heyecan verici bir deneyim katacağını düşünmem oldu.
